@@ -1,0 +1,5 @@
+# Central de Solicitações — versão 1 (semana 1)
+nome = input("Seu nome: ")
+setor = input("Setor: ")
+assunto = input("Assunto: ")
+print(f"Solicitação registrada! {nome} ({setor}): {assunto}")
