@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# Central de Solicitações · [Seu nome]
+# Central de Solicitações · Exemplo do instrutor
 
 **[Uma frase que explica o que o projeto faz. Ex.: "Um sistema para registrar e acompanhar pedidos de suporte, feito do zero em Python."]**
 
