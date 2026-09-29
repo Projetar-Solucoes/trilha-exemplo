@@ -15,6 +15,7 @@ def cadastrar(solicitacoes: list[dict]) -> None:
 def listar(solicitacoes: list[dict]) -> None:
     for numero, s in enumerate(solicitacoes, start=1):
         print(f"{numero}. {s['assunto']} ({s['status']})")
+    print(f"Total: {len(solicitacoes)} solicitação(ões)")
 
 
 def main() -> None:
